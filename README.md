@@ -1,6 +1,5 @@
 # Título del Proyecto
 
-_Acá va un párrafo que describa lo que es el proyecto_
 
 ## Comenzando 🚀
 
@@ -63,7 +62,7 @@ _Agrega notas adicionales sobre como hacer deploy_
 
 _Menciona las herramientas que utilizaste para crear tu proyecto_
 
-* README-Template.md - Una plantilla para hacer un buen README
+* [README-Template.md](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2) - Una plantilla para hacer un buen README de [PurpleBooth](https://github.com/PurpleBooth)
 * [Maven](https://maven.apache.org/) - Manejador de dependencias
 * [ROME](https://rometools.github.io/rome/) - Usado para generar RSS
 
