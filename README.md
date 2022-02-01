@@ -101,4 +101,4 @@ Este proyecto está bajo la Licencia MIT - mira el archivo [LICENSE.md](LICENSE.
 
 
 ---
-Creado desde Tlaxcala como parte integral del desarrollo de negocios r
+Creado desde Tlaxcala como parte integral del desarrollo de negocios rápidos y ágiles.
